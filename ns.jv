@@ -1,2 +1,6 @@
-System.out.println(zzz)
-System.out.println(hola)
+public class Saludo {
+ public static void main(String[] args) {
+ System.out.println("¡Hola, equipo!");
+ }
+}
+
